@@ -1,0 +1,11 @@
+%{"cowboy": {:package, "1.0.0"},
+  "cowlib": {:package, "1.0.0"},
+  "extwitter": {:package, "0.1.5"},
+  "jsex": {:package, "2.0.0"},
+  "jsx": {:package, "2.1.1"},
+  "linguist": {:package, "0.1.2"},
+  "oauth": {:git, "git://github.com/tim/erlang-oauth.git", "2ee206ea921722893200a0ad534c6b6130233325", []},
+  "phoenix": {:package, "0.4.1"},
+  "plug": {:package, "0.7.0"},
+  "poison": {:package, "1.1.1"},
+  "ranch": {:package, "1.0.0"}}
